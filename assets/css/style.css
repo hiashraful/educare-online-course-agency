@@ -1,0 +1,112 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-brand{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.container{
+    margin-bottom: 50px;
+}
+.logo{
+    width: 60px;
+    margin-right: 5px;
+}
+.btn-success{
+    border-radius: 30px;
+    color: #fff !important;
+}
+.top{
+    background-color: #f0fff0;
+}
+.banner{
+    padding-bottom: 50px;
+}
+.orange-text{
+    color: #FFBF4C;
+}
+.grey-text{
+    color: lightslategray;
+}
+.topic .card{
+    background-color: #f8fffb;
+    padding: 50px 0;
+    border: none;
+    border-radius: 10px;
+}
+.topic .card:hover{
+    box-shadow: 1px 1px 20px 0.5px lightgrey;
+    background-color: #fff;
+    cursor: pointer;
+}
+.header{
+    margin: 80px auto;
+}
+i{
+    margin-right:5px;
+}
+.course .card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 20px 0.5px lightgrey;
+}
+.course .card .card-img-top {
+    padding: 15px;
+    border-radius: 20px;
+}
+.card-footer p{
+    margin-bottom: 0;
+}
+.card-footer{
+    border: none;
+    background-color: #fff;
+    padding: 20px;
+}
+.testimonial-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.fa-star{
+    color: #f8a100;
+}
+#email{
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+}
+#submit-button{
+    height: 40px;
+    color: #fff;
+    border: 0;
+    border-radius: 5px;
+    background-color: #157347;
+    margin-top: 10px;
+}
+.newsletter .container{
+    background-color: #f0fff0;
+    padding: 50px 0;
+}
+.footer ul li{
+    list-style: none;
+    margin: 10px;
+}
+.footer ul li a{
+    text-decoration: none;
+    color: black;
+}
+.footer{
+    background-color: #157347;
+    padding: 100px;
+}
+.footer h1,h4{
+    margin-bottom: 30px;
+}
+.footer i{
+    font-size: 24px;
+    margin: 10px;
+    color: #fff;
+}
+.space{
+    margin-bottom: 30px;
+}
